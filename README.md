@@ -1,5 +1,5 @@
 #  
-  # Eccomerce Backend!
+  # Ecomerce Backend!
   
   ## Description  
   USe this app to test routes using CRUD
